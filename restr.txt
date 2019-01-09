@@ -1,0 +1,11 @@
+-Peso total del paquete
+-Altura del paquete
+-Metros totales del paquete
+-Cantidad de caños del paquete
+
+OPC:
+-entre todos
+-entre mismo diam
+
+-limite inferior de paquetes
+-maxima distancia entre diametros.
