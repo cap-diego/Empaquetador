@@ -23,28 +23,14 @@ paquete.h
 C:/Users/diego/Documents/produccion/headers/paquete.h
 
 C:/Users/diego/Documents/produccion/headers/canio.h
-../utils.h
-C:/Users/diego/Documents/produccion/utils.h
+utils.h
+C:/Users/diego/Documents/produccion/headers/utils.h
 
 C:/Users/diego/Documents/produccion/headers/paquete.h
 canio.h
 C:/Users/diego/Documents/produccion/headers/canio.h
 
-C:/Users/diego/Documents/produccion/main.cpp
-iostream
--
-clases_aux/canio.cpp
-C:/Users/diego/Documents/produccion/clases_aux/canio.cpp
-clases_aux/paquete.cpp
-C:/Users/diego/Documents/produccion/clases_aux/paquete.cpp
-clases_aux/caja.cpp
-C:/Users/diego/Documents/produccion/clases_aux/caja.cpp
-tuple
--
-list
--
-
-C:/Users/diego/Documents/produccion/utils.h
+C:/Users/diego/Documents/produccion/headers/utils.h
 string
 -
 vector
@@ -58,5 +44,19 @@ string
 algorithm
 -
 random
+-
+
+C:/Users/diego/Documents/produccion/main.cpp
+iostream
+-
+clases_aux/canio.cpp
+C:/Users/diego/Documents/produccion/clases_aux/canio.cpp
+clases_aux/paquete.cpp
+C:/Users/diego/Documents/produccion/clases_aux/paquete.cpp
+clases_aux/caja.cpp
+C:/Users/diego/Documents/produccion/clases_aux/caja.cpp
+tuple
+-
+list
 -
 

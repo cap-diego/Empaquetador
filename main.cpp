@@ -59,6 +59,7 @@ void cargar_info(std::vector<paquete>& paquetes, std::vector<canio>& canios){
         std::cout <<"Comenzando a cargar datos"<<std::endl;
         std::string linea_actual;
         in>>linea_actual;//la primera linea es la cantidad de canios
+        std::cout<<"cant caños: "<<linea_actual<<std::endl;
         cant_canios = std::atoi(linea_actual.c_str());
         cargar_tipo(diam,in,cant_canios);
         cargar_tipo(peso,in,cant_canios);
@@ -81,6 +82,7 @@ void cargar_info(std::vector<paquete>& paquetes, std::vector<canio>& canios){
         paquete p(canios[i],cant_canios_paq[i], altura[i]); //REVISAR
         paquetes.push_back(p);
     }
+    std::cout<<"TAM: "<< largos.size()<<std::endl;
 
     in.close();
 }

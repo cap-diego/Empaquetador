@@ -1,0 +1,8 @@
+C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gestion_Caños.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gestion_Caños.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gestion_Caños.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gestion_Caños.Form1.resources

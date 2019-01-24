@@ -7,6 +7,6 @@ CMakeFiles/produccion.dir/main.cpp.obj: ../clases_aux/paquete.cpp
 CMakeFiles/produccion.dir/main.cpp.obj: ../headers/caja.h
 CMakeFiles/produccion.dir/main.cpp.obj: ../headers/canio.h
 CMakeFiles/produccion.dir/main.cpp.obj: ../headers/paquete.h
+CMakeFiles/produccion.dir/main.cpp.obj: ../headers/utils.h
 CMakeFiles/produccion.dir/main.cpp.obj: ../main.cpp
-CMakeFiles/produccion.dir/main.cpp.obj: ../utils.h
 
