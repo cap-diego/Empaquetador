@@ -7,3 +7,13 @@ C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\main.csp
 C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\diego\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\main.Form1.resources
+C:\Users\diego\Documents\produccion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\main.csprojAssemblyReference.cache
+C:\Users\diego\Documents\produccion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\main.Form1.resources
+C:\Users\diego\Documents\produccion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\diego\Documents\produccion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\main.csproj.GenerateResource.cache
+C:\Users\diego\Documents\produccion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\produccion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\diego\Documents\produccion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\diego\Documents\produccion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\diego\Documents\produccion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\diego\Documents\produccion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb

@@ -31,14 +31,20 @@ void filtrar_canios();
 
 int main() {
     std::vector<paquete> paquetes;
+    std::vector<paquete> aux;
     std::vector<canio> canios;
     std::vector<paquete> paq_rest;
     caja empaquetado(altura_max,ancho,largo,h_tope,p_tope);
 
 
     cargar_info(paquetes,canios);
+    for (auto& p :paquetes){
+        if (p.get_espesor() < 4.2)
+            aux.push_back(p);
 
-    grasp(paquetes,empaquetado);
+    }
+    std::cout<< aux.size();
+    grasp(aux,empaquetado);
 
 
 
